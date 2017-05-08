@@ -1,17 +1,10 @@
-## Seeking help
-We're located at **#ga** on **irc.rizon.net** and we need translators, editors and QC - the usual deal. There's still a lot of work to do and not enough hands.
+## GA Geijutsuka Art Design Class - Slapstick Wonderland (PSP visual novel)
+A spin-off for the PlayStation Portable of the GA Geijutsuka Art Design Class anime series based on a manga series of the same name written by Satoko Kiyuzuki.
 
-## Progress
-### GA Geijutsuka Art Design Class: Slapstick Wonderland (PSP Visual novel)
-As of 23.08.2016:  
-  
-Common route: translated  
-Branches: 5/12 complete  
-Files: 217/355
+## Links
 
-## Downloads
-**[Demo patch](https://mega.nz/#!u5ZnmSbb!B3JykHD7Ixs6xzRY53zQoN_cUFpmWCPcjp54xPKaRl0)** - common route, 5/12 branches.
-* Choose either Kisaragi or Professor first for 4 routes
-* Choose Tomokane or Art Club first, Namiko or Noda second for the remaining route
-  
-[Route guide](http://pastebin.com/wdQAV26W) - spoiler warning
+**[EN Patch v1.0](https://mega.nz/#!2w4EGTgb!eHlAi2150jm4HJrvjsQyjFKdR9ihgIkTDtLLVkWFzGg)**
+
+**[Route guide](http://pastebin.com/wdQAV26W)** - spoiler warning. Tip: only the first two choices matter - after chapters 2 and 3.
+
+Report issues here or, while we're still there, contact us at **#ga@irc.rizon.net**
