@@ -1,0 +1,8 @@
+title: Nodamiki
+description: A certain art design franchise visual novel translation crew.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
