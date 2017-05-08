@@ -7,4 +7,4 @@ A spin-off for the PlayStation Portable of the GA Geijutsuka Art Design Class an
 
 **[Route guide](http://pastebin.com/wdQAV26W)** - spoiler warning. Tip: only the first two choices matter - after chapters 2 and 3.
 
-Report issues here or, while we're still there, contact us at **#ga@irc.rizon.net**
+Report issues [here](https://github.com/Nodamiki/nodamiki.github.io/issues) or, while we're still there, contact us at **#ga@irc.rizon.net**
